@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Rolex", "price": 8500 },
+  { "id": 2, "name": "Omega", "price": 5000 },
+  { "id": 3, "name": "Tag Heuer", "price": 4000 },
+  { "id": 4, "name": "Casio", "price": 150 },
+  { "id": 5, "name": "Tissot", "price": 700 }
+]
